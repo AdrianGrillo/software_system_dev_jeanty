@@ -1,0 +1,10 @@
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\bin\Debug\adrian_grillo_jeanty.exe.config
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\bin\Debug\adrian_grillo_jeanty.exe
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\bin\Debug\adrian_grillo_jeanty.pdb
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\obj\Debug\adrian_grillo_jeanty.csproj.AssemblyReference.cache
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\obj\Debug\adrian_grillo_jeanty.Properties.Resources.resources
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\obj\Debug\adrian_grillo_jeanty.csproj.GenerateResource.cache
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\obj\Debug\adrian_grillo_jeanty.csproj.CoreCompileInputs.cache
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\obj\Debug\adrian_grillo_jeanty.exe
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\obj\Debug\adrian_grillo_jeanty.pdb
+C:\Users\grill\OneDrive\Desktop\root\repos\adrian_grillo_jeanty\adrian_grillo_jeanty\obj\Debug\adrian_grillo_jeanty.Form_Entry.resources
